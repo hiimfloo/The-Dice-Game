@@ -35,4 +35,3 @@ if(randomNumber1>randomNumber2){
 } else {
     document.querySelector(".container h1").textContent= "It's a Draw!";
 }
-//testing for github
